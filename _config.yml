@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
 title: "Kevin Ma"
+description: "Kevin Ma's homepage."
+author:
+  name     : "Kevin Ma"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "PhD in Cellular and Molecular Biology"
+  location : "Beijing, China" 
